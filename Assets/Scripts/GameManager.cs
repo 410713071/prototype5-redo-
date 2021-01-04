@@ -26,4 +26,7 @@ public class GameManager : MonoBehaviour
             Instantiate(targets[index]);
         }
     }
+  
+
+
 }
