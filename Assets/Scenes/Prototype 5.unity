@@ -765,8 +765,8 @@ MonoBehaviour:
   - {fileID: 9127096873044373835, guid: e90576f55dffe9e43835f74dee8a02f1, type: 3}
   - {fileID: 5411882871799184051, guid: d48320d1d24822a42b17ac6b85e429bd, type: 3}
   - {fileID: 4292169844645671122, guid: e82a506f2d0679d47be09ff479327aa2, type: 3}
-  - {fileID: 7861553647924235697, guid: f441ae9255c5bd248847c899df553e12, type: 3}
-  scoreText: {fileID: 0}
+  - {fileID: 2320700055085251245, guid: f441ae9255c5bd248847c899df553e12, type: 3}
+  scoreText: {fileID: 1478234763}
 --- !u!4 &1781099539
 Transform:
   m_ObjectHideFlags: 0
